@@ -3,4 +3,5 @@
 - **Hacer música**
 - **Comer**
 - **Programar**
-
+- **Jugar Overwatch**
+- **Cantar**
